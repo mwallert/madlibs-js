@@ -23,3 +23,7 @@ div.col.text-container {
     display: flex;
     align-items: center;
 }
+
+ul.dropdown-content {
+  max-height: 250px;
+}
